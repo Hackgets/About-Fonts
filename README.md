@@ -1,2 +1,2 @@
-# About-Fonts
-About open source fonts.
+# オープンソースフォントの私見
+[EB Garamond](https://fonts.google.com/specimen/EB+Garamond) は古風なセリフ体で、なおかつ癖がなく使いやすい。[源流明朝](https://github.com/ButTaiwan/genryu-font)と[源石ゴシック](https://github.com/ButTaiwan/genseki-font)はそれぞれ源ノ明朝と源ノ角ゴシックを加工して古風な印象にしたものだが、自動生成とは思えないほど良く出来ている。[Grenze Gotisch](https://fonts.google.com/specimen/Grenze+Gotisch)はブラックレターでありながら可読性に優れる。[Outfit](https://github.com/Outfitio/Outfit-Fonts)は Keep Calm のパロディをするために似たフォントを探していて見つけた。端正なジオメトリック・サンセリフで、デザインの幅を広げるのに役立つ。[佑字](https://github.com/Kinutafontfactory/Yuji)は珍しいオープンソースの筆文字フォント。[Zen Maru Gothic](https://github.com/googlefonts/zen-marugothic)は、角ゴシックの加工では出せない雰囲気を持つ本格的な丸ゴシック。[Inter](https://github.com/rsms/inter)は現代的なグロテスク・サンセリフと言うべきもので、Helveticaに似た端正さと可読性の高さを両立させている。
